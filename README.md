@@ -1,10 +1,17 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Página de Login do Instagram versão LoL:video_game:
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
 
-### Os requisitos são:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+​	Olá pessoal, essa aqui é a minha versão do desafio proposto pela Gabriela Pinheiro, no bootcamp de introdução ao desenvolvimento web da Digital Innovation One.
 
-## 🚀 Let's code! 🚀
+​	Tive a ideia de tentar mudar a aparência de login da página, como se fosse o login do jogo League of Legends. Fiz as seguintes alterações:
+
+- Mudei o arquivo index.html, mudando o código do bootcamp e adicionando tags semânticas no lugar.
+- Utilizei o conceito de FlexBox para posicionar os elementos na página.
+- Adicionei novas imagens ao projeto.
+- E fiz algumas modificações diferentes no arquivo style.css, para se adaptar com as tags semânticas;
+
+​	Espero que gostem e caso vejam que tem algo em que posso melhorar, podem entrar em contato comigo.:smile:
+
+
+
