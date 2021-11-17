@@ -2,7 +2,7 @@
 
 
 
-​	Olá pessoal, essa aqui é a minha versão do desafio proposto pela Gabriela Pinheiro, no bootcamp de introdução ao desenvolvimento web da Digital Innovation One.
+​	Olá pessoal, essa aqui é a minha versão do desafio proposto pela Gabriela Pinheiro, no bootcamp de HTML Web Developer da Digital Innovation One.
 
 ​	Tive a ideia de tentar mudar a aparência de login da página, como se fosse o login do jogo League of Legends. Fiz as seguintes alterações:
 
