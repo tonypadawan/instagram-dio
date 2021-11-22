@@ -21,7 +21,7 @@
 
 - Tela em tamanho normal:
 
-![](/home/stranger/Documentos/html/projetos-github/instagram-dio/img-tela/tela-completa.png)
+![](img-tela/tela-completa.png)
 
 
 
@@ -29,4 +29,4 @@
 
 
 
-![](/home/stranger/Documentos/html/projetos-github/instagram-dio/img-tela/tela-reduzida.png)
+![](img-tela/tela-reduzida.png)
