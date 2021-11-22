@@ -15,3 +15,18 @@
 
 
 
+## Imagens
+
+
+
+- Tela em tamanho normal:
+
+![](/home/stranger/Documentos/html/projetos-github/instagram-dio/img-tela/tela-completa.png)
+
+
+
+- Tela com tamanho reduzido, igual a tamanho de smartphone:
+
+
+
+![](/home/stranger/Documentos/html/projetos-github/instagram-dio/img-tela/tela-reduzida.png)
